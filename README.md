@@ -8,7 +8,7 @@ Originally inspired by [this video](https://www.youtube.com/watch?t=296&v=jfYWwQ
 
 The logic used takes the same approach as mentioned in [this StackOverFlow post](https://stackoverflow.com/a/28962290) and has been changed to suit this project appropriately
 
-The site is currently deployed on [GitHub pages](https://tankris.github.io/sortableDrapAndDrop)
+The site is currently deployed on [GitHub pages](https://tankris.github.io/sortableDragAndDrop)
 
 ### Sincere thanks to
 
