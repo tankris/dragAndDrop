@@ -12,5 +12,5 @@ The site is currently deployed on [GitHub pages](https://tankris.github.io/sorta
 
 ### Sincere thanks to
 
-[DavidF](https://stackoverflow.com/users/4653189/davidf), and
+[DavidF](https://stackoverflow.com/users/4653189/davidf), and  
 [WebDevSimplified](https://github.com/WebDevSimplified)
